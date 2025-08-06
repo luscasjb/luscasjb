@@ -71,7 +71,7 @@ Here are some of the technologies I've been working with:
 ### 📫 How to Reach Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/lucas-bressiani-311381213" target="blank">
+  <a href="https://linkedin.com/in/lucas-bressiani" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Your LinkedIn Profile"/>
   </a>
 </p>
